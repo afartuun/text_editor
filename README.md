@@ -1,8 +1,7 @@
 # Text Editor PWA
 
 ## Description
-
-This is a CMS-style blog where developers can publish their blog posts and can also comment on other developers blog posts.
+This is a single page text editor that meets the PWA criteria. It is made to be used with or without internet connection.
 
 ## Table of Contents 
 
