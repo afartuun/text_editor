@@ -16,7 +16,7 @@ This application can be accessed through Heroku with the URL that is linked down
 
 ## Usage
 
-![Screenshot](./text_editor/Develop/client/src/images/screenshot.png)
+![Screenshot](./client/src/images/screenshot.png)
 
 
 ## Credits
